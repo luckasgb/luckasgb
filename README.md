@@ -1,8 +1,8 @@
 Hello World, I'm Luckas
 
-◾ Tenho mais de 10 anos de experiência em WebDev <br>
-◾ Amo PHP e tenho muitos proojetos desenvolvidos <br>
-◾ Sou novo em Git e perfil criado para aprender mais e contribuir com meus conhecimentos <br>
+◾ Mais de 10 anos de experiência em WebDev <br>
+◾ Amo PHP e tenho muitos projetos desenvolvidos e trabalhando <br>
+◾ Sou novo no Git, perfil criado para aprender mais e contribuir com meus conhecimentos <br>
 
 <hr>
 
